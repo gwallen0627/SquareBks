@@ -1,0 +1,372 @@
+Item,Price Point Name,Category,SKU,Items Sold,Item Sales,Discounts,Refund Count,Refunds,Net Sales
+Item,"",None,"",49.0,$590.83,$0.00,1.0,$-40.00,$550.83
+12pk. Cans,12pk Brisk,None,"",1.0,$6.00,$0.00,0.0,$0.00,$6.00
+12pk. Cans,12pk Coke,None,"",2.0,$12.00,$0.00,0.0,$0.00,$12.00
+12pk. Cans,12pk Dr. Pepper,None,"",1.0,$6.00,$0.00,0.0,$0.00,$6.00
+12pk. Cans,12pk Pepsi,None,"",2.0,$12.00,$0.00,0.0,$0.00,$12.00
+12pk. Cans,12pk Rootbeer,None,"",1.0,$6.00,$0.00,0.0,$0.00,$6.00
+12pk. Cans,12pk. Mtn. Dew,None,"",1.0,$6.00,$0.00,0.0,$0.00,$6.00
+12pk. Cans,12pk. RC ,None,"",1.0,$6.00,$0.00,0.0,$0.00,$6.00
+7 Up,Can,None,"",5.0,$3.25,$0.00,0.0,$0.00,$3.25
+Bacon,12oz,None,"",3.0,$12.00,$0.00,0.0,$0.00,$12.00
+Bacon,Pound,None,"",4.0,$20.00,$0.00,0.0,$0.00,$20.00
+Batteries,9volt 2pk,None,"",1.0,$4.00,$0.00,0.0,$0.00,$4.00
+Batteries,D 2pk,None,"",2.0,$7.00,$0.00,0.0,$0.00,$7.00
+Beef Stick,Beef N Cheese Sticks,Snacks,"",5.0,$5.00,$0.00,0.0,$0.00,$5.00
+Beef Stick,Beef Stick,Snacks,"",1.0,$0.75,$0.00,1.0,$-0.75,$0.00
+Beef Stick,Jack Link Beef Steak,Snacks,"",8.0,$10.00,$0.00,0.0,$0.00,$10.00
+Beef Stick,Jack Links Snack Pack,Snacks,"",33.0,$57.75,$0.00,0.0,$0.00,$57.75
+Beef Stick,Pepperoni Beef Stick,Snacks,"",5.0,$3.75,$0.00,0.0,$0.00,$3.75
+Black & Mild,"",Tobacco,"",6.0,$4.50,$0.00,0.0,$0.00,$4.50
+Bread,Hamburger Buns,None,"",1.0,$2.50,$0.00,0.0,$0.00,$2.50
+Bread,Hot Dog Buns,None,"",1.0,$2.50,$0.00,0.0,$0.00,$2.50
+Bread,Wheat,None,"",2.0,$4.00,$0.00,0.0,$0.00,$4.00
+Bread,White,None,"",3.0,$4.50,$0.00,0.0,$0.00,$4.50
+Butter ,Salted,None,"",1.0,$4.50,$0.00,0.0,$0.00,$4.50
+Cakes,6 PKU Mini Chocolate Donuts,None,"",3.0,$4.50,$0.00,0.0,$0.00,$4.50
+Cakes,Big Cheese Danish,None,"",10.0,$10.00,$0.00,0.0,$0.00,$10.00
+Cakes,Big Texas Cinnamon Roll,None,"",23.0,$23.00,$0.00,0.0,$0.00,$23.00
+Cakes,Cheese Crumb cakes,None,"",3.0,$3.00,$0.00,0.0,$0.00,$3.00
+Cakes,Cherry Cheese Danish,None,"",6.0,$6.00,$0.00,0.0,$0.00,$6.00
+Cakes,Cinnamon Crumb Cakes,None,"",7.0,$7.00,$0.00,0.0,$0.00,$7.00
+Cakes,Jumbo Honey Bun,None,"",12.0,$12.00,$0.00,0.0,$0.00,$12.00
+Cakes,Jumbo Iced Honey Bun,None,"",9.0,$9.00,$0.00,0.0,$0.00,$9.00
+Cakes,Mini Donuts,None,"",5.0,$5.00,$0.00,0.0,$0.00,$5.00
+Camel,Blue,Tobacco,"",5.0,$27.50,$0.00,0.0,$0.00,$27.50
+Camel,Crush,Tobacco,"",5.0,$27.50,$0.00,0.0,$0.00,$27.50
+Camel,King,Tobacco,"",5.0,$27.50,$0.00,0.0,$0.00,$27.50
+Camel,Menthol,Tobacco,"",2.0,$11.00,$0.00,0.0,$0.00,$11.00
+Camel,Wide,Tobacco,"",7.0,$38.50,$0.00,0.0,$0.00,$38.50
+Candy,10c Candies,None,"",5.0,$0.50,$0.00,0.0,$0.00,$0.50
+Candy,10c Chocolates,None,"",9.0,$0.90,$0.00,0.0,$0.00,$0.90
+Candy,20c Candies,None,"",1.0,$0.20,$0.00,0.0,$0.00,$0.20
+Candy,5c Candies,None,"",107.0,$5.35,$0.00,0.0,$0.00,$5.35
+Candy,Breathsavers,None,"",3.0,$3.00,$0.00,0.0,$0.00,$3.00
+Candy,Skittles,None,"",9.0,$9.00,$0.00,2.0,$-2.00,$7.00
+Candy,Twizzlers,None,"",23.0,$2.30,$0.00,0.0,$0.00,$2.30
+Candy Bars,100 Grand 6pk.,None,"",1.0,$2.00,$0.00,0.0,$0.00,$2.00
+Candy Bars,3 Musketeers ,None,"",6.0,$6.00,$0.00,0.0,$0.00,$6.00
+Candy Bars,Almond Joy,None,"",5.0,$5.00,$0.00,1.0,$-1.00,$4.00
+Candy Bars,Babe Ruth,None,"",7.0,$7.00,$0.00,0.0,$0.00,$7.00
+Candy Bars,Butterfinger- King,None,"",6.0,$9.00,$0.00,0.0,$0.00,$9.00
+Candy Bars,Crunch,None,"",3.0,$3.00,$0.00,0.0,$0.00,$3.00
+Candy Bars,Hersheys,None,"",11.0,$11.00,$0.00,0.0,$0.00,$11.00
+Candy Bars,Hersheys Dark,None,"",3.0,$3.00,$0.00,0.0,$0.00,$3.00
+Candy Bars,Hersheys with Almonds,None,"",5.0,$5.00,$0.00,0.0,$0.00,$5.00
+Candy Bars,Kit-Kat,None,"",10.0,$10.00,$0.00,0.0,$0.00,$10.00
+Candy Bars,M&M Peanut butter ,None,"",6.0,$6.00,$0.00,0.0,$0.00,$6.00
+Candy Bars,M&M Peanuts,None,"",6.0,$6.00,$0.00,2.0,$-2.00,$4.00
+Candy Bars,Milky Way,None,"",4.0,$4.00,$0.00,0.0,$0.00,$4.00
+Candy Bars,Mr. Goodbar,None,"",5.0,$5.00,$0.00,0.0,$0.00,$5.00
+Candy Bars,Pay Day- King,None,"",7.0,$10.50,$0.00,0.0,$0.00,$10.50
+Candy Bars,Reeses Cups,None,"",8.0,$8.00,$0.00,0.0,$0.00,$8.00
+Candy Bars,Snickers,None,"",14.0,$14.00,$0.00,0.0,$0.00,$14.00
+Candy Bars,Twix,None,"",8.0,$8.00,$0.00,0.0,$0.00,$8.00
+Candy Bars,Whatchamacallit's,None,"",5.0,$5.00,$0.00,0.0,$0.00,$5.00
+Charcoal,Regular Price,None,"",1.0,$7.00,$0.00,0.0,$0.00,$7.00
+Cheese Crackers,Cheese Crackers,None,"",6.0,$3.00,$0.00,2.0,$-1.00,$2.00
+Chips ,Big BBQ Lays,Snacks,"",1.0,$3.50,$0.00,0.0,$0.00,$3.50
+Chips ,Big Cheddar & Sour Cream,Snacks,"",1.0,$3.50,$0.00,0.0,$0.00,$3.50
+Chips ,Big Lays Cheesy Garlic Bread,Snacks,"",2.0,$7.00,$0.00,0.0,$0.00,$7.00
+Chips ,Big Lays Original,Snacks,"",1.0,$3.50,$0.00,0.0,$0.00,$3.50
+Chips ,Big Lays Sour Cream & Onion,Snacks,"",2.0,$7.00,$0.00,0.0,$0.00,$7.00
+Chips ,Big Nacho Cheese,Snacks,"",5.0,$17.50,$0.00,0.0,$0.00,$17.50
+Chips ,Big Ranch Doritos,Snacks,"",3.0,$10.50,$0.00,0.0,$0.00,$10.50
+Chips ,Big Sourdough Pretzels,Snacks,"",2.0,$7.00,$0.00,0.0,$0.00,$7.00
+Chips ,Big Tostitos Scoops,Snacks,"",1.0,$3.50,$0.00,0.0,$0.00,$3.50
+Chips ,Big Wavy Lays,Snacks,"",3.0,$10.50,$0.00,0.0,$0.00,$10.50
+Chips ,Med Funyon,Snacks,"",6.0,$12.00,$0.00,0.0,$0.00,$12.00
+Chips ,Popcorn,Snacks,"",3.0,$3.00,$0.00,0.0,$0.00,$3.00
+Chips ,Pretzel Sticks,Snacks,"",1.0,$0.50,$0.00,0.0,$0.00,$0.50
+Chips ,Sm Bbq Chips,Snacks,"",1.0,$0.75,$0.00,0.0,$0.00,$0.75
+Chips ,Sm Cheese Curls,Snacks,"",1.0,$0.75,$0.00,0.0,$0.00,$0.75
+Chips ,Sm Cheetos Crunchy,Snacks,"",1.0,$0.75,$0.00,0.0,$0.00,$0.75
+Chips ,Sm Lays Original,Snacks,"",2.0,$1.50,$0.00,0.0,$0.00,$1.50
+Chips ,Sm Nacho Cheese Doritos,Snacks,"",3.0,$2.25,$0.00,0.0,$0.00,$2.25
+Chips ,Sm Party Mix,Snacks,"",2.0,$1.50,$0.00,0.0,$0.00,$1.50
+Chips ,Sm Ranch Doritos,Snacks,"",5.0,$3.75,$0.00,0.0,$0.00,$3.75
+Chips ,Sm Sour Cream N Onion Chips,Snacks,"",3.0,$2.25,$0.00,0.0,$0.00,$2.25
+Chips ,Sm Spicy Nacho Doritos,Snacks,"",1.0,$0.75,$0.00,0.0,$0.00,$0.75
+Chips ,Sm Sun Chips French Onion,Snacks,"",1.0,$0.75,$0.00,0.0,$0.00,$0.75
+Chips ,Sm Sun Chips Garden Salsa,Snacks,"",2.0,$1.50,$0.00,0.0,$0.00,$1.50
+Chips ,Sm Sun Chips Harvest Cheddar,Snacks,"",2.0,$1.50,$0.00,0.0,$0.00,$1.50
+Chips ,Sm Sun Chips Original,Snacks,"",1.0,$0.75,$0.00,0.0,$0.00,$0.75
+Chips ,Sm White Cheddar Popcorn,Snacks,"",4.0,$3.00,$0.00,0.0,$0.00,$3.00
+Chips ,Sm. BBQ Chips,Snacks,"",2.0,$1.50,$0.00,0.0,$0.00,$1.50
+Chips ,Sml Fritos BBQ Twist,Snacks,"",6.0,$4.50,$0.00,0.0,$0.00,$4.50
+Chips ,Sml Funyon,Snacks,"",6.0,$4.50,$0.00,0.0,$0.00,$4.50
+Chips ,Sml Sour Crm N Cheddar,Snacks,"",5.0,$3.75,$0.00,0.0,$0.00,$3.75
+Coffee,Black Dog,None,"",1.0,$7.50,$0.00,0.0,$0.00,$7.50
+Coffee,Eight O'clock,None,"",3.0,$18.00,$0.00,0.0,$0.00,$18.00
+Coffee/cocoa,8oz Coffee,None,"",1.0,$1.00,$0.00,0.0,$0.00,$1.00
+Coffee/cocoa,Coffee Filter,None,"",2.0,$2.00,$0.00,0.0,$0.00,$2.00
+Coke,16oz ,None,"",26.0,$26.00,$0.00,1.0,$-1.00,$25.00
+Coke,16oz Diet,None,"",4.0,$4.00,$0.00,0.0,$0.00,$4.00
+Coke,2Ltr,None,"",7.0,$17.50,$0.00,1.0,$-2.50,$15.00
+Coke,2Ltr Diet,None,"",1.0,$2.50,$0.00,0.0,$0.00,$2.50
+Coke,Can,None,"",12.0,$7.80,$0.00,0.0,$0.00,$7.80
+Coke,Zero Cherry,None,"",1.0,$2.50,$0.00,0.0,$0.00,$2.50
+Condiments,Bbq Sauce,None,"",1.0,$3.00,$0.00,0.0,$0.00,$3.00
+Condiments,Mustard,None,"",2.0,$6.00,$0.00,0.0,$0.00,$6.00
+Condiments,Relish,None,"",1.0,$3.00,$0.00,0.0,$0.00,$3.00
+Cookies,Keebler Fudge Strips,None,"",1.0,$1.25,$0.00,0.0,$0.00,$1.25
+Cookies,Nutty Butter,None,"",4.0,$3.00,$0.00,0.0,$0.00,$3.00
+Copenhagen,Wintergreen LC,None,"",3.0,$9.75,$0.00,0.0,$0.00,$9.75
+Dips,French Onion,None,"",1.0,$2.00,$0.00,0.0,$0.00,$2.00
+Dips,Tostito Salsa,None,"",1.0,$4.00,$0.00,0.0,$0.00,$4.00
+Doral ,Doral Lights,Tobacco,"",10.0,$47.50,$0.00,0.0,$0.00,$47.50
+Doral ,Doral Red,Tobacco,"",11.0,$52.25,$0.00,0.0,$0.00,$52.25
+Dr Pepper,24oz,None,"",31.0,$46.50,$0.00,0.0,$0.00,$46.50
+Dr Pepper,24oz Diet,None,"",4.0,$6.00,$0.00,0.0,$0.00,$6.00
+Dr Pepper,2Ltr,None,"",7.0,$17.50,$0.00,0.0,$0.00,$17.50
+Dr Pepper,Can ,None,"",10.0,$6.50,$0.00,0.0,$0.00,$6.50
+Dutch Master,Dutch Single,Tobacco,"",1.0,$1.75,$0.00,0.0,$0.00,$1.75
+Eggs,"",None,"",1.0,$2.50,$0.00,0.0,$0.00,$2.50
+Energy Drinks,12oz Red bull,None,"",14.0,$45.50,$0.00,2.0,$-6.50,$39.00
+Energy Drinks,16oz Monster,None,"",8.0,$22.00,$0.00,0.0,$0.00,$22.00
+Energy Drinks,8oz Monster,None,"",1.0,$1.50,$0.00,0.0,$0.00,$1.50
+Energy Drinks,8oz Red bull,None,"",18.0,$45.00,$0.00,2.0,$-5.00,$40.00
+Feminine Products,10pk Fresh times Maxi,None,"",2.0,$4.00,$0.00,0.0,$0.00,$4.00
+Feminine Products,40pk Fresh times Pantiliners,None,"",2.0,$4.00,$0.00,0.0,$0.00,$4.00
+Feminine Products,8pk Femtex Tampon,None,"",1.0,$2.00,$0.00,0.0,$0.00,$2.00
+Frapicchino: ,Coffee Frap,None,"",7.0,$14.00,$0.00,1.0,$-2.00,$12.00
+Frapicchino: ,Vanilla Frap,None,"",3.0,$6.00,$0.00,0.0,$0.00,$6.00
+Fruit,"",None,"",2.0,$1.00,$0.00,0.0,$0.00,$1.00
+Fruit Cup 4oz,"",None,"",1.0,$1.00,$0.00,0.0,$0.00,$1.00
+Fruitsnacks,Kellogs Big,Candy,"",7.0,$7.00,$0.00,0.0,$0.00,$7.00
+Fruitsnacks,Welches Sml,Candy,"",6.0,$3.00,$0.00,0.0,$0.00,$3.00
+Gatorade ,12oz Berry,None,"",1.0,$1.00,$0.00,0.0,$0.00,$1.00
+Gatorade ,12oz Fruit Punch,None,"",2.0,$2.00,$0.00,0.0,$0.00,$2.00
+Gatorade ,12oz Glacier Cherry,None,"",11.0,$11.00,$0.00,0.0,$0.00,$11.00
+Gatorade ,12oz Glacier Freeze,None,"",9.0,$9.00,$0.00,0.0,$0.00,$9.00
+Gatorade ,12oz Grape,None,"",5.0,$5.00,$0.00,0.0,$0.00,$5.00
+Gatorade ,12oz Lemon Lime,None,"",1.0,$1.00,$0.00,0.0,$0.00,$1.00
+Gatorade ,12oz Orange,None,"",2.0,$2.00,$0.00,0.0,$0.00,$2.00
+Gatorade ,12oz Riptide Rush,None,"",1.0,$1.00,$0.00,0.0,$0.00,$1.00
+Gatorade ,12oz. Rain Berry,None,"",2.0,$2.00,$0.00,0.0,$0.00,$2.00
+Gatorade ,12oz. Strawberry,None,"",1.0,$1.00,$0.00,0.0,$0.00,$1.00
+Gatorade ,20oz Glacier Freeze,None,"",1.0,$1.50,$0.00,0.0,$0.00,$1.50
+Gatorade ,20oz Glazier Freeze,None,"",8.0,$12.00,$0.00,0.0,$0.00,$12.00
+Gatorade ,20oz Grape,None,"",4.0,$6.00,$0.00,0.0,$0.00,$6.00
+Gatorade ,20oz Lemon Lime,None,"",5.0,$7.50,$0.00,0.0,$0.00,$7.50
+Gatorade ,20oz Orange,None,"",11.0,$16.50,$0.00,0.0,$0.00,$16.50
+Ginger Ale,12oz Can,None,"",6.0,$3.90,$0.00,0.0,$0.00,$3.90
+Ginger Ale,Regular Price,None,"",1.0,$2.50,$0.00,0.0,$0.00,$2.50
+Grizzly ,Wintergreen LC,None,"",4.0,$12.00,$0.00,0.0,$0.00,$12.00
+Grizzly ,Wintergreen Pouches,None,"",1.0,$3.00,$0.00,0.0,$0.00,$3.00
+Gum,15pc Juicy Fruit,None,"",1.0,$0.75,$0.00,0.0,$0.00,$0.75
+Gum,Big Red,None,"",2.0,$1.50,$0.00,0.0,$0.00,$1.50
+Gum,DoubleMint,None,"",2.0,$1.00,$0.00,0.0,$0.00,$1.00
+Gum,Spearment,None,"",1.0,$0.50,$0.00,0.0,$0.00,$0.50
+Hawaiian Punch,12oz Can,Drinks,"",9.0,$5.85,$0.00,0.0,$0.00,$5.85
+Hot Dogs,Regular Price,None,"",2.0,$2.50,$0.00,0.0,$0.00,$2.50
+Hot Pockets,Ham And Cheese,None,"",14.0,$21.00,$0.00,1.0,$-1.50,$19.50
+Hot Pockets,Meatball & Mozzerrela,None,"",1.0,$1.50,$0.00,0.0,$0.00,$1.50
+Hot Pockets,Pepperoni,None,"",4.0,$6.00,$0.00,0.0,$0.00,$6.00
+Hot Pockets,Steak N Cheese,None,"",4.0,$6.00,$0.00,0.0,$0.00,$6.00
+Ice Cream ,10lb Bag Ice,Ice Cream,"",26.0,$52.00,$0.00,0.0,$0.00,$52.00
+Ice Cream ,Butter Pecan,Ice Cream,"",1.0,$4.50,$0.00,0.0,$0.00,$4.50
+Ice Cream ,Chocolate,Ice Cream,"",2.0,$9.00,$0.00,0.0,$0.00,$9.00
+Ice Cream ,Cones,Ice Cream,"",81.0,$81.00,$0.00,0.0,$0.00,$81.00
+Ice Cream ,Cookies N Cream,Ice Cream,"",1.0,$4.50,$0.00,0.0,$0.00,$4.50
+Ice Cream ,Dream Bar,Ice Cream,"",5.0,$3.75,$0.00,0.0,$0.00,$3.75
+Ice Cream ,Fudge Bar,Ice Cream,"",9.0,$6.75,$0.00,1.0,$-0.75,$6.00
+Ice Cream ,Ice Cream Sandwich,Ice Cream,"",27.0,$20.25,$0.00,0.0,$0.00,$20.25
+Ice Cream ,Icepop,Ice Cream,"",10.0,$1.00,$0.00,0.0,$0.00,$1.00
+Ice Cream ,Klondike Bar Mint,Ice Cream,"",8.0,$8.00,$0.00,0.0,$0.00,$8.00
+Ice Cream ,Klondike Bar Original,Ice Cream,"",6.0,$6.00,$0.00,0.0,$0.00,$6.00
+Ice Cream ,Klondike Bar Reesses ,Ice Cream,"",6.0,$6.00,$0.00,0.0,$0.00,$6.00
+Ice Cream ,Klondike Heath,Ice Cream,"",6.0,$6.00,$0.00,0.0,$0.00,$6.00
+Ice Cream ,Klondine Bar Krunch,Ice Cream,"",4.0,$4.00,$0.00,0.0,$0.00,$4.00
+Ice Cream ,Milky Way Ice Cream Bar,Ice Cream,"",5.0,$6.25,$0.00,0.0,$0.00,$6.25
+Ice Cream ,Mint Chocolate Chip,Ice Cream,"",1.0,$4.50,$0.00,0.0,$0.00,$4.50
+Ice Cream ,Popscicle,Ice Cream,"",4.0,$2.00,$0.00,0.0,$0.00,$2.00
+Ice Cream ,Rainbow Sherbet,Ice Cream,"",1.0,$4.50,$0.00,0.0,$0.00,$4.50
+Ice Cream ,Rocky Road Tub,Ice Cream,"",2.0,$9.00,$0.00,0.0,$0.00,$9.00
+Ice Cream ,Snickers Ice Cream Bar,Ice Cream,"",2.0,$2.50,$0.00,0.0,$0.00,$2.50
+Ice Cream ,Snickers Ice cream Bar,Ice Cream,"",2.0,$2.00,$0.00,0.0,$0.00,$2.00
+Ice Cream ,Star Bar (Chocolate Outside Vanilla Inside),Ice Cream,"",7.0,$5.25,$0.00,0.0,$0.00,$5.25
+Ice Cream ,Strawberry,Ice Cream,"",2.0,$9.00,$0.00,0.0,$0.00,$9.00
+Ice Cream ,Twix Ice Cream Bar,Ice Cream,"",8.0,$10.00,$0.00,1.0,$-1.25,$8.75
+Ice Cream ,Vanilla,Ice Cream,"",2.0,$9.00,$0.00,1.0,$-4.50,$4.50
+Ice Tea,12oz Brisk No Lemon,None,"",3.0,$1.95,$0.00,0.0,$0.00,$1.95
+Ice Tea,16oz Nested Lemon Bottle,None,"",9.0,$9.00,$0.00,0.0,$0.00,$9.00
+Jello,Lemon-lime,None,"",2.0,$2.00,$0.00,0.0,$0.00,$2.00
+Juice,Apple,Drinks,"",2.0,$2.00,$0.00,0.0,$0.00,$2.00
+Juice,Capri Sun Cherry,Drinks,"",5.0,$2.50,$0.00,0.0,$0.00,$2.50
+Juice,Capri Sun Grape,Drinks,"",4.0,$2.00,$0.00,0.0,$0.00,$2.00
+Juice,Capri Sun Lemonade,Drinks,"",2.0,$1.00,$0.00,0.0,$0.00,$1.00
+Juice,Capri Sun Splash Cooler,Drinks,"",3.0,$1.50,$0.00,0.0,$0.00,$1.50
+Juice,Grape,Drinks,"",1.0,$1.00,$0.00,0.0,$0.00,$1.00
+Juice,Grapefruit,Drinks,"",4.0,$4.00,$0.00,0.0,$0.00,$4.00
+Juice,Orange,Drinks,"",1.0,$1.00,$0.00,0.0,$0.00,$1.00
+Juice,Sunny D,Drinks,"",9.0,$9.00,$0.00,0.0,$0.00,$9.00
+L&M,L & M Bold,Tobacco,"",5.0,$20.00,$0.00,1.0,$-4.00,$16.00
+L&M,L & M Bold 100,Tobacco,"",3.0,$12.00,$0.00,0.0,$0.00,$12.00
+L&M,L & M Light,Tobacco,"",6.0,$24.00,$0.00,0.0,$0.00,$24.00
+L&M,L & M Light 100,Tobacco,"",4.0,$16.00,$0.00,0.0,$0.00,$16.00
+L&M,L & M Menthol,Tobacco,"",9.0,$36.00,$0.00,0.0,$0.00,$36.00
+L&M,L & M Menthol 100,Tobacco,"",22.0,$88.00,$0.00,0.0,$0.00,$88.00
+L&M,L & M Red,Tobacco,"",19.0,$76.00,$0.00,1.0,$-4.00,$72.00
+L&M,L & M Red 100,Tobacco,"",23.0,$92.00,$0.00,1.0,$-4.00,$88.00
+Light Bulbs,Regular Price,None,"",1.0,$8.00,$0.00,0.0,$0.00,$8.00
+Lighters,Matches,None,"",3.0,$0.75,$0.00,0.0,$0.00,$0.75
+Lighters,Price 1,None,"",9.0,$15.75,$0.00,0.0,$0.00,$15.75
+Lighters,Sm Lighters,None,"",5.0,$5.00,$0.00,0.0,$0.00,$5.00
+Lil Bites,Brownie,None,"",2.0,$2.00,$0.00,0.0,$0.00,$2.00
+Lil Bites,Choc Chip,None,"",3.0,$3.00,$0.00,0.0,$0.00,$3.00
+Lil Bites,Snickerdoodle,None,"",3.0,$3.00,$0.00,0.0,$0.00,$3.00
+Lunch Meat,Black Forest Ham,None,"",1.0,$3.25,$0.00,1.0,$-3.25,$0.00
+Lunch Meat,Oven Roasted Turkey,None,"",1.0,$3.25,$0.00,1.0,$-3.25,$0.00
+Lysol 3pk,3pack,None,"",1.0,$4.00,$0.00,0.0,$0.00,$4.00
+Marlboro,Marlboro Black Menthol,Tobacco,"",10.0,$49.50,$0.00,0.0,$0.00,$49.50
+Marlboro,Marlboro Black Menthol 100,Tobacco,"",4.0,$20.00,$0.00,0.0,$0.00,$20.00
+Marlboro,Marlboro Black Red,Tobacco,"",6.0,$29.50,$0.00,0.0,$0.00,$29.50
+Marlboro,Marlboro Black Red 100,Tobacco,"",6.0,$30.00,$0.00,0.0,$0.00,$30.00
+Marlboro,Marlboro Gold Menthol,Tobacco,"",5.0,$27.50,$0.00,0.0,$0.00,$27.50
+Marlboro,Marlboro Light,Tobacco,"",4.0,$22.00,$0.00,0.0,$0.00,$22.00
+Marlboro,Marlboro Light 100,Tobacco,"",11.0,$60.50,$0.00,0.0,$0.00,$60.50
+Marlboro,Marlboro Light 72's,Tobacco,"",8.0,$40.00,$0.00,0.0,$0.00,$40.00
+Marlboro,Marlboro Menthol,Tobacco,"",3.0,$16.50,$0.00,0.0,$0.00,$16.50
+Marlboro,Marlboro Menthol 100,Tobacco,"",9.0,$49.50,$0.00,1.0,$-5.50,$44.00
+Marlboro,Marlboro Red,Tobacco,"",16.0,$88.00,$0.00,0.0,$0.00,$88.00
+Marlboro,Marlboro Red 100,Tobacco,"",24.0,$132.00,$0.00,0.0,$0.00,$132.00
+Marlboro,Marlboro Red 72s,Tobacco,"",11.0,$52.00,$0.00,0.0,$0.00,$52.00
+Marlboro,Marlboro Silver,Tobacco,"",9.0,$49.50,$0.00,0.0,$0.00,$49.50
+Marlboro,Marlboro Silver Menthol,Tobacco,"",1.0,$5.50,$0.00,0.0,$0.00,$5.50
+Marlboro,Marlboro Smooth,Tobacco,"",3.0,$16.50,$0.00,0.0,$0.00,$16.50
+Marlboro,Marlboro Southern Cut,Tobacco,"",6.0,$30.00,$0.00,0.0,$0.00,$30.00
+Marlboro,Marlboro Special Blend Light,Tobacco,"",10.0,$50.00,$0.00,0.0,$0.00,$50.00
+Marlboro,Marlboro Special Blend Light 100,Tobacco,"",7.0,$35.00,$0.00,0.0,$0.00,$35.00
+Marlboro,Marlboro Special Blend Red,Tobacco,"",16.0,$78.50,$0.00,0.0,$0.00,$78.50
+Marlboro,Marlboro Special Blend Red 100,Tobacco,"",13.0,$65.00,$0.00,0.0,$0.00,$65.00
+Marlboro,Marlboro Ultra 100,Tobacco,"",4.0,$22.00,$0.00,0.0,$0.00,$22.00
+Maverick ,Maverick,Tobacco,"",12.0,$48.00,$0.00,1.0,$-4.00,$44.00
+Maverick ,Maverick 100,Tobacco,"",10.0,$40.00,$0.00,0.0,$0.00,$40.00
+Maverick ,Maverick Menthol,Tobacco,"",1.0,$4.00,$0.00,0.0,$0.00,$4.00
+Maverick ,Maverick Menthol 100,Tobacco,"",4.0,$16.00,$0.00,0.0,$0.00,$16.00
+Medicines,Acetaminophen,None,"",1.0,$2.00,$0.00,0.0,$0.00,$2.00
+Medicines,Ibuprofen,None,"",2.0,$4.00,$0.00,0.0,$0.00,$4.00
+Milk,1/2 Gallon Whole,None,"",5.0,$14.25,$0.00,0.0,$0.00,$14.25
+Milk,14oz Nesquick Strawberry,None,"",2.0,$4.00,$0.00,0.0,$0.00,$4.00
+Milk,16oz 1/2 & 1/2 ,None,"",3.0,$6.00,$0.00,0.0,$0.00,$6.00
+Milk,8oz Nesquick Chocolate,None,"",2.0,$3.00,$0.00,0.0,$0.00,$3.00
+Milk,Bottled Yoohoo,None,"",7.0,$14.00,$0.00,0.0,$0.00,$14.00
+Milk,Canned Yoohoo,None,"",15.0,$22.50,$0.00,0.0,$0.00,$22.50
+Milk,Gallon 2%,None,"",2.0,$8.20,$0.00,0.0,$0.00,$8.20
+Milk,Gallon Whole,None,"",5.0,$21.00,$0.00,0.0,$0.00,$21.00
+Motor Oil,10w30,None,"",3.0,$10.50,$0.00,0.0,$0.00,$10.50
+Motor Oil,5w30,None,"",6.0,$21.00,$0.00,0.0,$0.00,$21.00
+Mtn Dew,12oz Can Code Red,None,"",13.0,$8.45,$0.00,0.0,$0.00,$8.45
+Mtn Dew,12oz can Regular,None,"",5.0,$3.25,$0.00,0.0,$0.00,$3.25
+Mtn Dew,20oz Code Red,None,"",25.0,$37.50,$0.00,0.0,$0.00,$37.50
+Mtn Dew,24oz ,None,"",81.0,$121.50,$0.00,1.0,$-1.50,$120.00
+Mtn Dew,24oz Diet,None,"",10.0,$15.00,$0.00,0.0,$0.00,$15.00
+Mtn Dew,2Ltr,None,"",12.0,$30.00,$0.00,1.0,$-2.50,$27.50
+Newport ,Newport,Tobacco,"",11.0,$68.75,$0.00,0.0,$0.00,$68.75
+Newport ,Newport 100,Tobacco,"",11.0,$68.75,$0.00,1.0,$-6.25,$62.50
+Newport ,Newport Gold,Tobacco,"",1.0,$6.25,$0.00,0.0,$0.00,$6.25
+Newport ,Newport Gold 100,Tobacco,"",3.0,$18.75,$0.00,0.0,$0.00,$18.75
+Newport Gold 100,"",None,"",2.0,$12.50,$0.00,0.0,$0.00,$12.50
+Paid Tabs/card Payment,Regular Price,None,"",7.0,$117.50,$0.00,0.0,$0.00,$117.50
+Pall Mall,Blue,None,"",8.0,$32.00,$0.00,0.0,$0.00,$32.00
+Pall Mall,Blue 100,None,"",11.0,$44.00,$0.00,0.0,$0.00,$44.00
+Pall Mall,Menthol,None,"",26.0,$104.00,$0.00,1.0,$-4.00,$100.00
+Pall Mall,Menthol 100,None,"",14.0,$56.00,$0.00,0.0,$0.00,$56.00
+Pall Mall,Orange,None,"",3.0,$12.00,$0.00,0.0,$0.00,$12.00
+Pall Mall,Red,None,"",19.0,$76.00,$0.00,0.0,$0.00,$76.00
+Pall Mall,Red 100,None,"",13.0,$52.00,$0.00,0.0,$0.00,$52.00
+Pall Mall Blue Short,"",Pall Mall,"",1.0,$4.00,$0.00,0.0,$0.00,$4.00
+Pall Mall Red Shorts,"",Pall Mall,"",1.0,$4.00,$0.00,0.0,$0.00,$4.00
+Papertowel ,2pk,None,"",1.0,$4.00,$0.00,0.0,$0.00,$4.00
+Papertowel ,Single,None,"",1.0,$2.00,$0.00,0.0,$0.00,$2.00
+Peanuts,Salted,Misc,"",1.0,$0.75,$0.00,0.0,$0.00,$0.75
+Peanuts,Sunflower Seeds,Misc,"",3.0,$2.25,$0.00,0.0,$0.00,$2.25
+Pepsi,16oz,None,"",43.0,$43.00,$0.00,1.0,$-1.00,$42.00
+Pepsi,16oz Diet,None,"",4.0,$4.00,$0.00,0.0,$0.00,$4.00
+Pepsi,24oz ,None,"",34.0,$51.00,$0.00,0.0,$0.00,$51.00
+Pepsi,24oz Diet,None,"",3.0,$4.50,$0.00,0.0,$0.00,$4.50
+Pepsi,2Ltr,None,"",20.0,$50.00,$0.00,1.0,$-2.50,$47.50
+Pepsi,2Ltr Cherry,None,"",9.0,$22.50,$0.00,0.0,$0.00,$22.50
+Pepsi,Can Pepsi,None,"",11.0,$7.15,$0.00,0.0,$0.00,$7.15
+Pet Food,Cat Food,Misc,"",26.0,$19.50,$0.00,0.0,$0.00,$19.50
+Pet Food,Dog Food,Misc,"",10.0,$10.00,$0.00,0.0,$0.00,$10.00
+Pet Food,Dry Cat Food,Misc,"",2.0,$12.00,$0.00,0.0,$0.00,$12.00
+Pet Food,Dry Dog Food,Misc,"",1.0,$6.00,$0.00,0.0,$0.00,$6.00
+Pet Food,Litter,Misc,"",1.0,$3.50,$0.00,0.0,$0.00,$3.50
+Pie,Apple,Snacks,"",2.0,$3.00,$0.00,0.0,$0.00,$3.00
+Pie,Blueberry,Snacks,"",1.0,$1.50,$0.00,0.0,$0.00,$1.50
+Pie,Cherry,Snacks,"",2.0,$3.00,$0.00,0.0,$0.00,$3.00
+Pie,Coconut Cream,Snacks,"",4.0,$6.00,$0.00,0.0,$0.00,$6.00
+Pie,French Apple,Snacks,"",7.0,$10.50,$0.00,0.0,$0.00,$10.50
+Pie,Peach,Snacks,"",1.0,$1.50,$0.00,0.0,$0.00,$1.50
+Pizza 12inch,Great Value Pepperoni ,None,"",2.0,$8.00,$0.00,0.0,$0.00,$8.00
+Pizza 12inch,Red Baron Meat,None,"",2.0,$8.00,$0.00,0.0,$0.00,$8.00
+Pizza 12inch,Red Baron Surpreme,None,"",4.0,$16.00,$0.00,0.0,$0.00,$16.00
+Pop Tart,Blueberry,Snacks,"",1.0,$0.75,$0.00,0.0,$0.00,$0.75
+Pop Tart,Cherry,Snacks,"",2.0,$1.50,$0.00,0.0,$0.00,$1.50
+Pop Tart,Cookies N Cream,Snacks,"",4.0,$3.00,$0.00,0.0,$0.00,$3.00
+Pop Tart,Smores,Snacks,"",3.0,$2.25,$0.00,0.0,$0.00,$2.25
+Pop Tart,Strawberry,Snacks,"",3.0,$2.25,$0.00,0.0,$0.00,$2.25
+Pringles ,Bbq,Snacks,"",1.0,$2.50,$0.00,0.0,$0.00,$2.50
+Pringles ,Cheddar Cheese,Snacks,"",2.0,$5.00,$0.00,0.0,$0.00,$5.00
+Pringles ,Honey Mustard,Snacks,"",1.0,$2.50,$0.00,0.0,$0.00,$2.50
+Pringles ,Loaded Baked Potatoe,Snacks,"",5.0,$12.50,$0.00,0.0,$0.00,$12.50
+Pringles ,Original,Snacks,"",1.0,$2.50,$0.00,0.0,$0.00,$2.50
+Pringles ,Pizzas,Snacks,"",1.0,$2.50,$0.00,0.0,$0.00,$2.50
+Pringles ,Ranch,Snacks,"",5.0,$12.50,$0.00,0.0,$0.00,$12.50
+Pringles ,Sour Cream N Onion,Snacks,"",2.0,$5.00,$0.00,0.0,$0.00,$5.00
+Pringles ,Tortilla ,Snacks,"",2.0,$5.00,$0.00,0.0,$0.00,$5.00
+Pringles ,Zesty Salsa,Snacks,"",1.0,$2.50,$0.00,0.0,$0.00,$2.50
+Propane,Can,None,"",7.0,$140.00,$0.00,0.0,$0.00,$140.00
+Pudding,Chocolate Vanilla Swirl,None,"",1.0,$1.00,$0.00,0.0,$0.00,$1.00
+RC,Regular Price,None,"",5.0,$3.25,$0.00,0.0,$0.00,$3.25
+Rolling Papers,EZ Wider,Tobacco,"",3.0,$6.00,$0.00,0.0,$0.00,$6.00
+Rolling Papers,JOB,Tobacco,"",8.0,$14.00,$0.00,0.0,$0.00,$14.00
+Rolling Papers,Raw,Tobacco,"",2.0,$4.00,$0.00,0.0,$0.00,$4.00
+Root beer,16 Oz. Root Beer,Drinks,"",10.0,$10.00,$0.00,0.0,$0.00,$10.00
+Root beer,16oz Diet Root Beer,Drinks,"",2.0,$2.00,$0.00,0.0,$0.00,$2.00
+Root beer,2 Ltr. Root Beer,Drinks,"",3.0,$7.50,$0.00,0.0,$0.00,$7.50
+Root beer,Can Cream Soda,Drinks,"",4.0,$2.60,$0.00,0.0,$0.00,$2.60
+Root beer,Canned Rootbeer,Drinks,"",7.0,$4.55,$0.00,0.0,$0.00,$4.55
+Salems,Regular Price,None,"",1.0,$5.50,$0.00,0.0,$0.00,$5.50
+Screens,Brass,None,"",1.0,$1.00,$0.00,0.0,$0.00,$1.00
+Shasta Cans,Grape,None,"",2.0,$1.30,$0.00,0.0,$0.00,$1.30
+Sierra Mist,2ltr,None,"",1.0,$2.50,$0.00,0.0,$0.00,$2.50
+Sierra Mist,Can,None,"",9.0,$5.85,$0.00,0.0,$0.00,$5.85
+Skoal ,Original FC,None,"",2.0,$10.00,$0.00,0.0,$0.00,$10.00
+Skoal ,Straight LC,None,"",1.0,$5.00,$0.00,0.0,$0.00,$5.00
+Skoal ,Wintergreen LC,None,"",1.0,$5.00,$0.00,0.0,$0.00,$5.00
+Slim Jim ,Big Slim Jim,None,"",40.0,$40.00,$0.00,0.0,$0.00,$40.00
+Slim Jim ,Sm Slim Jim,None,"",27.0,$8.10,$0.00,0.0,$0.00,$8.10
+Soap,Irish Spring Bar,None,"",1.0,$1.00,$0.00,0.0,$0.00,$1.00
+Soups,Chicken N Rice,None,"",3.0,$6.00,$0.00,0.0,$0.00,$6.00
+Spaghetti ,Noodles,None,"",2.0,$3.00,$0.00,0.0,$0.00,$3.00
+Sprite,16oz,None,"",17.0,$17.00,$0.00,0.0,$0.00,$17.00
+Sprite,2Ltr,None,"",3.0,$7.50,$0.00,0.0,$0.00,$7.50
+Sprite,Can,None,"",4.0,$2.60,$0.00,0.0,$0.00,$2.60
+Sugar,"",None,"",3.0,$6.75,$0.00,0.0,$0.00,$6.75
+Sunkist,12oz Can,Drinks,"",6.0,$3.90,$0.00,0.0,$0.00,$3.90
+Swisher Single,Blueberry 2pk,None,"",5.0,$6.25,$0.00,0.0,$0.00,$6.25
+Swisher Single,Grape 2pk,None,"",1.0,$1.25,$0.00,0.0,$0.00,$1.25
+Swisher Single,Pack,None,"",5.0,$23.75,$0.00,0.0,$0.00,$23.75
+Tabs Paid,Regular Price,None,"",6.0,$227.50,$0.00,0.0,$0.00,$227.50
+Tissues,Regular Price,None,"",2.0,$3.00,$0.00,0.0,$0.00,$3.00
+Toy Items,4pk Poppers,None,"",9.0,$27.00,$0.00,0.0,$0.00,$27.00
+Toy Items,Bubbles,None,"",2.0,$2.00,$0.00,0.0,$0.00,$2.00
+Toy Items,Sparklers,None,"",1.0,$0.75,$0.00,0.0,$0.00,$0.75
+Toy Items,Water Gun,None,"",1.0,$1.00,$0.00,0.0,$0.00,$1.00
+Tp ,6pk,None,"",2.0,$10.00,$0.00,0.0,$0.00,$10.00
+Tp ,Roll,None,"",8.0,$12.00,$0.00,0.0,$0.00,$12.00
+Trident,Cinnamon,Snacks,"",1.0,$1.00,$0.00,0.0,$0.00,$1.00
+Trident,Original,Snacks,"",1.0,$1.00,$0.00,0.0,$0.00,$1.00
+Velvet Shells And Cheese,Regular Price,None,"",1.0,$3.00,$0.00,0.0,$0.00,$3.00
+Virginia Slims ,"",None,"",2.0,$11.00,$0.00,0.0,$0.00,$11.00
+Water ,16oz,Other Drinks,"",18.0,$18.00,$0.00,1.0,$-1.00,$17.00
+Water ,Gallon,Other Drinks,"",5.0,$10.00,$0.00,0.0,$0.00,$10.00
+Winston,Winston,Tobacco,"",6.0,$30.00,$0.00,0.0,$0.00,$30.00
+Winston,Winston 100,Tobacco,"",7.0,$35.00,$0.00,0.0,$0.00,$35.00
+Winston,Winston Light,Tobacco,"",3.0,$15.00,$0.00,0.0,$0.00,$15.00
+Zig Zag Wraps,Blueberry,None,"",3.0,$3.75,$0.00,0.0,$0.00,$3.75
+Zig Zag Wraps,Grape,None,"",15.0,$18.75,$0.00,0.0,$0.00,$18.75
+Zig Zag Wraps,Peach,None,"",5.0,$6.25,$0.00,1.0,$-1.25,$5.00
